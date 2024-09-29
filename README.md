@@ -16,7 +16,7 @@
 <p>Run it and choose How much to generate (Leave blank if unlimited)</p>
 <p>Choose how much threads (recommended: 50-1000)</p>
 
-If u have any problem just join <a href="[url](https://discord.com/invite/QEynvTEZ5x)">my discord</a>
+If u have any problem just join [my discord](https://discord.com/invite/QEynvTEZ5x)
 
 ### Use residential Http proxies
 
